@@ -47,6 +47,9 @@ jobs:
                     - description: 'Symfony 7'
                       php: '8.2'
                       symfony: ^7.2
+                    - description: 'Symfony 8'
+                      php: '8.4'
+                      symfony: ^8.0
                       dev: true
                     - description: 'Dev deps'
                       php: '8.4'
